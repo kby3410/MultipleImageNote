@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">kby</string>
+
+    <string-array name="LAN">
+        <item>"카메라"</item>
+        <item>"앨범"</item>
+        <item>"URL"</item>
+    </string-array>
+
+
+</resources>
